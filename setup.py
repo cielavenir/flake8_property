@@ -7,7 +7,7 @@ import sys
 
 setup(
     name='flake8_property',
-    description='flake8_property',
+    description='flake8 plugin to warn the wrong decorators usage for properties',
     long_description=open("README.md").read(),
     long_description_content_type='text/markdown',
     version=versionContext['__version__'],
